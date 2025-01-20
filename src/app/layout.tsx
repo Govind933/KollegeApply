@@ -7,7 +7,7 @@ import SecondHeader from '../components/SecondHeader';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Education News Portal',
+  title: 'Kollege Apply',
   description: 'Stay updated with the latest education news',
 };
 

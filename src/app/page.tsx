@@ -12,9 +12,6 @@ export default function Home() {
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         {/* Left Section: NewsContainer */}
         <div className="lg:col-span-2">
-          <h1 className="text-3xl font-bold mb-8 mt-8 text-center">
-            Education News Portal
-          </h1>
           <NewsContainer initialNews={filteredNews} />
         </div>
 
